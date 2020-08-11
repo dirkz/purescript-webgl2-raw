@@ -104,7 +104,7 @@ type GLint = Int
 
 type GLsizei = Int
 
-type GLintptr = Number
+type GLintptr = Int
 
 type GLsizeiptr = Number
 
