@@ -112,7 +112,7 @@ type GLubyte = Int
 
 type GLushort = Int
 
-type GLuint = Number
+type GLuint = Int
 
 type GLfloat = Number
 
