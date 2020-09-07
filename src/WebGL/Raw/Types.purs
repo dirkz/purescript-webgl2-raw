@@ -94,7 +94,7 @@ type GLenum = Int
 
 type GLboolean = Boolean
 
-type GLbitfield = Number
+type GLbitfield = Int
 
 type GLbyte = Int
 
